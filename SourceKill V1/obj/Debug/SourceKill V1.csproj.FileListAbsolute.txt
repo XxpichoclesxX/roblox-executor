@@ -1,0 +1,10 @@
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\bin\Debug\SourceKill V1.exe.config
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\bin\Debug\SourceKill V1.exe
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\bin\Debug\SourceKill V1.pdb
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\obj\Debug\SourceKill_V1.Form1.resources
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\obj\Debug\SourceKill_V1.Properties.Resources.resources
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\obj\Debug\SourceKill V1.csproj.GenerateResource.cache
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\obj\Debug\SourceKill V1.csproj.CoreCompileInputs.cache
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\obj\Debug\SourceKill V1.exe
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\obj\Debug\SourceKill V1.pdb
+C:\Users\STRIX\source\repos\SourceKill V1\SourceKill V1\obj\Debug\SourceKill V1.csproj.AssemblyReference.cache
