@@ -6,3 +6,10 @@ just open the directory bin/debug and execute the .exe , its opensource so if th
 
 
 ## Actually my firs C# app :3 
+
+
+## Updates:
+
+This shit is probably discontinued or idk if im gonna still make this project its in stand by for now.
+
+Actually working in a own api and improvements for this shitty executor
