@@ -1,0 +1,15 @@
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\bin\Debug\SourceKill V1.exe.config
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\bin\Debug\SourceKill V1.exe
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\bin\Debug\SourceKill V1.pdb
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\bin\Debug\WeAreDevs_API.dll
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill V1.5.csproj.AssemblyReference.cache
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill V1.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill_V1.Form1.resources
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill_V1.Properties.Resources.resources
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill V1.5.csproj.GenerateResource.cache
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill V1.5.csproj.CoreCompileInputs.cache
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill V1.5.csproj.CopyComplete
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill V1.exe
+C:\Users\Dango\OneDrive\Escritorio\roblox-executor-main\SourceKill V1.5\obj\Debug\SourceKill V1.pdb
